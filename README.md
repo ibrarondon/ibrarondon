@@ -8,10 +8,10 @@ Me encuentro aprendiendo nuevas herramientas y técnicas de automatización para
 ## Conoce mi trabajo
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrarondon)  
-[Reporte de pruebas para funcionalidades de Urban Scooters](https://drive.google.com/uc?id=18wpP3TBqO9QJ1-qswPSSavDAv9f0jG50&export=download)  
-[Reporte de pruebas para app móvil de Urban Lunch](https://drive.google.com/uc?id=1qQpxeXICPyGsIgvsyn4FhhtHwa4CtGhU&export=download)  
-[Reporte de pruebas de APIs para Urban Scooters](https://drive.google.com/uc?id=14mJCKAcsIXYVzxm3IWr-2i64Ha64ZEJz&export=download)  
-[Reporte de pruebas de UI para Urban Routes](https://drive.google.com/uc?id=1rqcf9nlp56UQTTyngQdeGd5wgGk_hPi-&export=download) 
+[Reporte de bugs en JIRA para funcionalidades de Urban Scooters](https://drive.google.com/uc?id=18wpP3TBqO9QJ1-qswPSSavDAv9f0jG50&export=download)  
+[Reporte de bugs en JIRA para app móvil de Urban Lunch](https://drive.google.com/uc?id=1qQpxeXICPyGsIgvsyn4FhhtHwa4CtGhU&export=download)  
+[Reporte de bugs en JIRA de APIs para Urban Scooters](https://drive.google.com/uc?id=14mJCKAcsIXYVzxm3IWr-2i64Ha64ZEJz&export=download)  
+[Reporte de bugs en JIRA de UI para Urban Routes](https://drive.google.com/uc?id=1rqcf9nlp56UQTTyngQdeGd5wgGk_hPi-&export=download) 
 
 ## Habilidades
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
