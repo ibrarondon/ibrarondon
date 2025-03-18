@@ -7,7 +7,7 @@ Me encuentro aprendiendo nuevas herramientas y técnicas de automatización para
 
 ## Conóceme 👇
 
-[![Alt text](https://img.youtube.com/vi/W3WqndwIjXo/0.jpg)](https://www.youtube.com/watch?v=W3WqndwIjXo)
+[![Alt text](https://img.youtube.com/vi/W3WqndwIjXo/0.jpg)](https://youtu.be/AR3eefRA1IE)
 
 
 ## Habilidades
