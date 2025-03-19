@@ -5,12 +5,14 @@ Soy QA Engineer con experiencia en gestión de proyectos y manejo de personal, a
 
 Me encuentro aprendiendo nuevas herramientas y técnicas de automatización para el control de calidad y tengo la disposición de colaborar en proyectos👷
 
-## Conóceme 👇
+## ¿Para qué soy bueno? 🤔
 
-[![Alt text](https://img.youtube.com/vi/W3WqndwIjXo/0.jpg)](https://youtu.be/AR3eefRA1IE)
+ Conóceme 👇  | Conoce mi trabajo 👇 
+| ------------- | ------------- |
+ [![VideoCV](https://img.youtube.com/vi/AR3eefRA1IE/0.jpg)](https://www.youtube.com/watch?v=AR3eefRA1IE)   | [<img width="500" alt="GithubPages" src="https://github.com/user-attachments/assets/5908812a-a8de-42b3-b461-295fd8dcae64" />](https://ibrarondon.github.io/) 
 
 
-## Habilidades
+## Habilidades 🗝️
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
@@ -18,14 +20,6 @@ Me encuentro aprendiendo nuevas herramientas y técnicas de automatización para
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://acrobat.adobe.com/es/es/)
 
-
-## Conoce mi trabajo
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrarondon)  
-[Reporte de bugs en JIRA para funcionalidades de Urban Scooters](https://drive.google.com/uc?id=18wpP3TBqO9QJ1-qswPSSavDAv9f0jG50&export=download)  
-[Reporte de bugs en JIRA para app móvil de Urban Lunch](https://drive.google.com/uc?id=1qQpxeXICPyGsIgvsyn4FhhtHwa4CtGhU&export=download)  
-[Reporte de bugs en JIRA de APIs para Urban Scooters](https://drive.google.com/uc?id=14mJCKAcsIXYVzxm3IWr-2i64Ha64ZEJz&export=download)  
-[Reporte de bugs en JIRA de UI para Urban Routes](https://drive.google.com/uc?id=1rqcf9nlp56UQTTyngQdeGd5wgGk_hPi-&export=download) 
 
 ## Contáctame
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrarondon@gmail.com)
